@@ -1,0 +1,28 @@
+baseURL = 'https://yandextrackerproject.github.io/'
+languageCode = 'ru'
+title = 'Яндекс Tracker для Управления программными проектами'
+theme = 'hello-friend'
+[menu]
+[[menu.main]]
+  name = 'Лекции'
+  pageRef = '/Лекции'
+  weight = 10
+[[menu.main]]
+  name = 'О Проекте'
+  pageRef = '/О_Проекте'
+  weight = 9
+[[menu.main]]
+  name = 'Практики'
+  pageRef = '/Практики'
+  weight = 10
+[[menu.main]]
+  name = 'Тесты'
+  pageRef = '/Тесты'
+  weight = 10
+[[menu.main]]
+  name = 'Дополнительно'
+  pageRef = '/Дополнительные_материалы'
+  weight = 11
+
+[params]
+  author = 'Яндекс Tracker для Управления программными проектами'
