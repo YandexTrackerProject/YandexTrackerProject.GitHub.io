@@ -26,3 +26,4 @@ theme = 'hello-friend'
 
 [params]
   author = 'Яндекс Tracker для Управления программными проектами'
+  defaultTheme = "dark"
